@@ -4,6 +4,7 @@ instagram-autolikes 2.0
 instagram auto likes php script
 
 With this you can do tags and with the help of it you can generate likes on the instagram without having any kind of problem.
+
 You will be able to to search for pictures using tags, access your pictures and also generate html code below pictures and videos.
 
 Installation tips:
@@ -12,6 +13,7 @@ Installation tips:
 First of all set up the application in the instagram.
 
 Callback must be replaced (http://www.ultgate.com/instagram2/cb.php) in  file instagram 2.0/cb.php 
+
 Click the respective link in this regard <a href*"http://autolikesig.com/*)>here</a>
 
 The callback file should be http://[your website]/[instalation directory]/cb.php
