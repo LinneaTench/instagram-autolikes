@@ -12,7 +12,7 @@ Installation tips:
 
 First of all set up the application in the instagram.
 
-Callback must be replaced (http://www.ultgate.com/instagram2/cb.php) in  file instagram 2.0/cb.php 
+Callback must be replaced http://autolikesig.com
 
 Click the respective link in this regard <a href*"http://autolikesig.com/*)>here</a>
 
