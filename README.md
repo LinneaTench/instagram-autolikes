@@ -47,4 +47,4 @@ with the following fields with their corresponding attributes :
   congratulation
   ===================
   congratulation the script is setup and ready to be used :)
-  for questions/bugs contact me on jad@ultgate.com or twitter on @jadismael
+  for questions/bugs contact me on http://autolikesig.com
